@@ -1,0 +1,4 @@
+target ‘BilibiliDemo’ do
+    pod ‘AFNetworking’
+    pod ‘SDWebImage’
+end
